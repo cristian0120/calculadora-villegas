@@ -1,1 +1,2 @@
 # CalculadoraCristian
+este es readme 
